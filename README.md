@@ -73,3 +73,8 @@ Credits: Lord-No-Name for support
 
 
    <a href="https://t.me//darklovemd"><img title="CONTACT ME" src="https://img.shields.io/badge/CONTACT ME-h?color=blue&style=for-the-badge&logo=luis" width="210" height="38.45"/></a></p>
+
+
+
+
+https://i.ibb.co/4d8m2cT/bot-feature.png
