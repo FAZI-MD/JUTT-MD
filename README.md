@@ -1,3 +1,8 @@
+
+`<p align="center"> <img src="https://i.ibb.co/4d8m2cT/bot-feature.png" alt="BOT FEATURE"> </p>`
+
+
+
 # JUTT-MD
 
 
